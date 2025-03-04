@@ -1,0 +1,5 @@
+direct==1.0.1
+numpy==2.2.3
+panda3d==1.10.15
+simpleaudio==1.0.4
+soundfile==0.13.1
